@@ -1,0 +1,35 @@
+Incident Response Report
+
+Incident Title:
+Suspicious File Detected on Endpoint
+
+Date:
+[4th January,2026.]
+
+Analyst:
+[Ike Favour Chinonso]
+
+Incident Summary:
+A suspicious text file was identified on a user system during a routine security check. The file triggered antivirus alerts and was investigated to determine its nature and potential impact.
+
+Investigation Steps:
+1. The file was identified and its properties were reviewed.
+2. A SHA256 hash of the file was generated using built-in Windows tools.
+3. The hash was analyzed using VirusTotal.
+4. Detection results indicated the file matched the EICAR antivirus test signature.
+
+Findings:
+- The file was confirmed to be the EICAR standard antivirus test file.
+- No evidence of real malware activity was found.
+- The file poses no actual security threat.
+
+Impact Assessment:
+Low risk. The file is not malicious and is commonly used for testing security detection systems.
+
+Recommendation:
+- No remediation required.
+- Educate users on the purpose of antivirus test files.
+- Continue monitoring systems for real threats.
+
+Conclusion:
+The incident was safely analyzed and classified as a false positive related to a known antivirus test file. No further action is required.
