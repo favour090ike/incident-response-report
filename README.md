@@ -62,5 +62,5 @@ The project demonstrates:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
